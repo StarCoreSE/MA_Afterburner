@@ -51,7 +51,7 @@ namespace SRBanticringe
 
 				//Or it could just fucking explode
 
-				MyAPIGateway.Utilities.ShowNotification("An SRB has detonated from overpressure.", 10000, "Red");
+				//MyAPIGateway.Utilities.ShowNotification("An SRB has detonated from overpressure.", 10000, "Red");
                 Vector3D position = Entity.GetPosition();
                 Sandbox.Game.MyVisualScriptLogicProvider.CreateExplosion(position, 50f, 100000);
 
