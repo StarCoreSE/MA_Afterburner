@@ -58,9 +58,13 @@ namespace SRBanticringe
 			triggerTick += 1;
 		}
 
-		public override void Close()
-		{
-			SRB.EnabledChanged -= SRBEnabledChanged;
-		}
-	}
+        public override void Close()
+        {
+            if (SRB != null)
+            {
+                SRB.EnabledChanged -= SRBEnabledChanged;
+            }
+        }
+
+    }
 }
