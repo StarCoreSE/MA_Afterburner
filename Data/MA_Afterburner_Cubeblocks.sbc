@@ -36,6 +36,7 @@
             </Components>
       <CriticalComponent Subtype="Computer" Index="0" />
 	<MountPoints>
+    <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" />
 	</MountPoints>
 <BuildProgressModels>
 				<Model BuildPercentUpperBound="0.33" File="Models\MA_Afterburner\Afterburner_LG_Small_BS1.mwm"/>
@@ -95,6 +96,7 @@
             </Components>
       <CriticalComponent Subtype="Computer" Index="0" />
 	<MountPoints>
+    <MountPoint Side="Back" StartX="0" StartY="0" EndX="3" EndY="3" />
 	</MountPoints>
       <BuildProgressModels>
 
@@ -150,6 +152,7 @@
             </Components>
       <CriticalComponent Subtype="Computer" Index="0" />
 	<MountPoints>
+    <MountPoint Side="Back" StartX="0" StartY="0" EndX="5" EndY="5" />
 	</MountPoints>
   <BuildProgressModels>
 
@@ -200,6 +203,7 @@
             </Components>
       <CriticalComponent Subtype="Computer" Index="0" />
 	<MountPoints>
+    <MountPoint Side="Back" StartX="0" StartY="0" EndX="3" EndY="2" />
 	</MountPoints>
       <BuildProgressModels>
 
@@ -248,6 +252,11 @@
             </Components>
       <CriticalComponent Subtype="Computer" Index="0" />
 	<MountPoints>
+    <MountPoint Side="Front" StartX="0" StartY="0" EndX="1" EndY="18" />
+    <MountPoint Side="Right" StartX="0" StartY="0" EndX="1" EndY="18" />
+    <MountPoint Side="Left" StartX="0" StartY="0" EndX="1" EndY="18" />
+    <MountPoint Side="Top" StartX="0" StartY="0" EndX="1" EndY="1" />
+    <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="18" />
 	</MountPoints>
       <BuildProgressModels>
 
@@ -468,6 +477,7 @@
             </Components>
       <CriticalComponent Subtype="Computer" Index="0" />
 	<MountPoints>
+    <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="1" EndY="1" />
 	</MountPoints>
       <BuildProgressModels>
 
