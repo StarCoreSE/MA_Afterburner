@@ -154,7 +154,7 @@ namespace Scripts {
                 {
                     Effect1 = new ParticleDef
                     {
-                        Name = "AfterburnerSmoke", // SubtypeId of muzzle particle effect.
+                        Name = "AfterburnerExhaust_5x5", // SubtypeId of muzzle particle effect.
                         Color = Color(red: 0, green: 0, blue: 0, alpha: 1), // Deprecated, set color in particle sbc.
                         Offset = Vector(x: 0, y: -1, z: 0), // Offsets the effect from the muzzle empty.
 
