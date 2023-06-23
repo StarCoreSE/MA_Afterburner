@@ -481,9 +481,9 @@
       <Icon>Textures\Icons\sidebooster.dds</Icon>
       <CubeSize>Small</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
-      <Size x="1" y="1" z="1" />
+      <Size x="1" y="1" z="2" />
       <ModelOffset x="0" y="0" z="0" />
-      <Model>Models\MA_Afterburner\ExhaustPipe_Racing.mwm</Model>
+      <Model>Models\Cubes\Small\ThrustSmall.mwm</Model>
       <Components>
         <Component Subtype="SteelPlate" Count="10" />
         <Component Subtype="Computer" Count="1" />
@@ -495,9 +495,6 @@
         <Component Subtype="SteelPlate" Count="200" />
       </Components>
       <CriticalComponent Subtype="Computer" Index="0" />
-      <MountPoints>
-        <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="1" EndY="1" />
-      </MountPoints>
       <BuildProgressModels>
 
       </BuildProgressModels>

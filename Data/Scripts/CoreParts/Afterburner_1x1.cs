@@ -207,7 +207,7 @@ namespace Scripts {
                     },
                    },
                 Muzzles = new[] {
-                    "Muzzle02",
+                    "thruster_flame_01",
 
 
 
@@ -364,7 +364,7 @@ namespace Scripts {
                 },
             },
             Ammos = new[] {
-                Afterburner_ammo_2,
+                Afterburner_ammo_2_smallgrid,
                 // Must list all primary, shrapnel, and pattern ammos.
             },
             //Animations = Weapon75_Animation,
