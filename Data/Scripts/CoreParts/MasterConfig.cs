@@ -12,6 +12,7 @@ namespace Scripts
             // PartDefinitions includes both weapons and phantoms
             PartDefinitions(
             MA_Afterburner_Large_small,
+            MA_Afterburner_Large_small_smallgrid,
             MA_Afterburner_Large,
             MA_Afterburner_Large_5x,
             Afterburner_LG_Ion_Large,
