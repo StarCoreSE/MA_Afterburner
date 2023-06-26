@@ -85,7 +85,7 @@
       <Category>SHOT</Category>
       <MaxDistance>800</MaxDistance>
       <PitchVariation>100</PitchVariation>
-      <Volume>3</Volume>
+      <Volume>1</Volume>
       <Loopable>true</Loopable>
       <Waves>
         <Wave Type="D3">
@@ -103,7 +103,7 @@
       </Id>
       <Category>WEP_SHIP</Category>
       <MaxDistance>800</MaxDistance>
-      <Volume>3</Volume>
+      <Volume>1</Volume>
 	  <PreventSynchronization>1</PreventSynchronization>
       <SoundLimit>6</SoundLimit>
       <Loopable>true</Loopable>
