@@ -12,6 +12,7 @@ jobs:
         with:
           appID: 244850
           publishedFileID: 2582915617
+          paths-ignore: '.git/**'
         env:
           STEAM_ACCOUNT_NAME: ${{ secrets.accountname }}
           STEAM_PASSWORD: ${{ secrets.password }}
