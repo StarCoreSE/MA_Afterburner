@@ -1,7 +1,7 @@
 name: "Upload to Workshop"
 
 on:
-  push:
+  upload:
     paths-ignore:
     - '.git/**'
     
